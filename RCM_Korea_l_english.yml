@@ -1,15 +1,15 @@
 ﻿l_english: 
  ###PARTIES###
  
- KOR_fascism_party:0 "National Association"
- KOR_democratic_party:0 "KDP"
- KOR_democratic_party_long:0 "Korea Democratic Party"
- KOR_n_socialism_party:0 "CPKI"
- KOR_n_socialism_party_long:0 "Committee for the Preparation of Korean Independence"
- KOR_communism_party:0 "CPK"
- KOR_communism_party_long:0 "Communist Party of Korea"
- KOR_neutrality_party:0 "KPG"
- KOR_neutrality_party_long:0 "Korean Provisional Government"
+ KOR_fascism_party:0 "조선민족청년단"
+ KOR_democratic_party:0 "한민당"
+ KOR_democratic_party_long:0 "한국민주당"
+ KOR_n_socialism_party:0 "건준0"
+ KOR_n_socialism_party_long:0 "건국준비위원회"
+ KOR_communism_party:0 "조공당"
+ KOR_communism_party_long:0 "조선공산당"
+ KOR_neutrality_party:0 "임시정부"
+ KOR_neutrality_party_long:0 "대한민국 임시정부"
  
  ###IDEAS###
  #General
