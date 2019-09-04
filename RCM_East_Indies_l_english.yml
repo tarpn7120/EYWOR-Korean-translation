@@ -15,17 +15,17 @@
 
  
  ###PARTIES###
- INS_fascism_party:0 "Darul Islam"
- INS_fascism_party_long:0 "Darul Islam"
- INS_neutrality_party:0 "Colonial Administration"
- INS_HOL_neutrality_party:0 "Colonial Administration"
- INS_HOL_neutrality_party_long:0 "Colonial Administration"
- INS_democratic_party:0 "Parindra"
- INS_democratic_party_long:0 "Partai Indonesia Raya"
+ INS_fascism_party:0 "다룰 이슬람"
+ INS_fascism_party_long:0 "다룰 이슬람"
+ INS_neutrality_party:0 "식민지 행정부"
+ INS_HOL_neutrality_party:0 "식민지 행정부"
+ INS_HOL_neutrality_party_long:0 "식민지 행정부"
+ INS_democratic_party:0 "대 인도네시아당"
+ INS_democratic_party_long:0 "대 인도네시아당"
  INS_communist_party:0 "PKI"
- INS_communist_party_long:0 "Partai Komunis Indonesia"
+ INS_communist_party_long:0 "인도네시아 공산당"
  INS_n_socialism_party:0 "PNI"
- INS_n_socialism_party_long:0 "Partai Nasional Indonesia"
+ INS_n_socialism_party_long:0 "인도네시아 국민당"
 
  
  ###DECISIONS###
