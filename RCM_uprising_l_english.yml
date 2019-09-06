@@ -1,7 +1,7 @@
 ﻿l_english:
- RCM_communist_uprising.1.t:0 "Communists [This.Getinforupr] [This.GetName]!"
- RCM_communist_uprising_country.1.t:0 "Communists [From.From.Getinforupr] [From.From.GetName]!"
- RCM_communist_uprising.1.d:0 "After winning over the people in the region, our comrades in [This.GetName] have been working hard to overthrow the Nationalists government that was still holding on to the place despite its low popularity. However, today our comrades has organized and staged an uprising in the region, and the Nationalist influence there has been successfully expelled. The liberation of China is at our doorstep!"
+ RCM_communist_uprising.1.t:0 "공산주의자 [This.Getinforupr] [This.GetName]!"
+ RCM_communist_uprising_country.1.t:0 "공산주의자 [From.From.Getinforupr] [From.From.GetName]!"
+ RCM_communist_uprising.1.d:0 "이 지역의 거주민들의 저항을 억누르는데 성공한 이후, [This.GetName]의 동지들은 낮은 인기에도 불구하고 국민당 정부를 전복시키기 위하여 노력해왔습니다. 하지만, 오늘 우리 동지들이 봉기를 조직하여 봉기를 일으켰고, 국민당 정부는 성공적으로 추방되었습니다. 중국의 해방이 한 걸음 가까워졌습니다!"
  RCM_communist_uprising.1.d_CHI:0 "The communist bandits in [From.From.GetName] has been spreading propaganda against our regional government there for quite some time. Not only that, now they have gone one step futher and launched a treasonous subversion of our regional government and siezed control. The havoc those communist thugs have wreaked is getting our of hand!"
  RCM_communist_uprising.1.a:0 "For the People!"
  RCM_communist_uprising.1.b:0 "Outrageous!"
