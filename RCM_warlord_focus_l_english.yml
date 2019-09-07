@@ -4,24 +4,24 @@
 #############
 ###WARLORD###
 #############
- WRL_political_consultative_assembly_focus:0 "Political Consultative Assembly"
+ WRL_political_consultative_assembly_focus:0 "정치 협의회"
  WRL_political_consultative_assembly_focus_desc:0 "Now Chinese people have finally regain control over our lost territories form foreign threat, appointing delegates for each individula Chinese provinces is now possible. However, to reconcile inter-party conflicts, a Political Consultative Assembly should be held. Though it is still unkown whether or not each party is willing to cooperate."
  ####buttom branch
- WRL_Isolationism:0 "Isolationism"
+ WRL_Isolationism:0 "고립주의"
  WRL_Isolationism_desc:0 "We have enough problems of our own, we do not need further conflict. We will adopt a policy of neutrality."
- WRL_Befriend_Tibet:0 "Befriend Tibet"
+ WRL_Befriend_Tibet:0 "티베트와에 친선"
  WRL_Befriend_Tibet_desc:0 "Tibet may be a province in revolt but through diplomacy we can regain suzerainty."
- WRL_Tibet_Ultimatum:0 "Tibet Ultimatum"
+ WRL_Tibet_Ultimatum:0 "티베트에 최후통첩"
  WRL_Tibet_Ultimatum_desc:0 "Tibet is a province in revolt, they will submit to our authority willingly or through force of arms."
- WRL_Demand_Outer_Mongolia:0 "Demand Outer Mongolia"
+ WRL_Demand_Outer_Mongolia:0 "외몽골 요구"
  WRL_Demand_Outer_Mongolia_desc:0 "The Mongolian-Soviet Protocol is a flagranent violation of China's territorial integrity. In rejecting Chinese suzerainty we declare the Soviets and Mongolians in breach of the Treaty of Kyakht. We therefore demand return to the pre-1911 border!"
- WRL_Faction_Research:0 "Faction Research"
+ WRL_Faction_Research:0 "세력 연구"
  WRL_Faction_Research_desc:0 "We reaped enormous political capital from our involvement in the Great War. Similarly joining a major faction could provide us incredible technical aid and instruction."
  WRL_Faction_Research_tt:0 "We will join the §YFaction Research§!."
- WRL_Found_Faction:0 "Found a Faction"
+ WRL_Found_Faction:0 "세력 설립"
  WRL_Found_Faction_desc:0 "We cannot afford to ignore world affairs, but we have no desire to choose between conflicting imperialists. We will lead the rest world in combating imperialism."
- WRL_china_faction:0 "Nanking Pact"
- WRL_Concession_or_cede:0 "Demand Foreign Concessions"
+ WRL_china_faction:0 "난징 조약"
+ WRL_Concession_or_cede:0 "외국의 양보 요구"
  WRL_Concession_or_cede_desc:0 "The former leadership has let the righteous territories of China be stolen by foreign powers under territorial unequal treaties. We as the new leaders of China will mend that."
  
  #left branch
