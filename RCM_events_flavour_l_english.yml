@@ -1,16 +1,16 @@
 ﻿l_english:
- rcmflavor.1.t:0 "The Death of Lin Sen"
- rcmflavor.1.d:0 "After a car accident three months ago and a period of deteriorating health, Lin Sen, who served as Head of State since 1932, has died today, aged 76.\n\nLin fought the Japanese during the invasion of Taiwan, and joined the Tongmenghui in 1905. He followed Sun Yat-sen and served as governor of Fukien. After the death of Sun, he formed the Western Hills Group, a right-wing faction of the Kuomintang advocating for the purge of the Communists. The Japanese invasion of Manchuria forced Chiang Kai-shek to resign in 1931, and Lin was appointed to succeed him as Chairman of the National Government of China although serving as a mere figurehead. Though he had little influence on public policy, Lin was highly respected by the public as an august elder statesman who was above politics. As he was in hospice, he urged the recovery of Taiwan. While [ROOT.GetLeader] have took over the office of head of state, a month of mourning has been declared."
- rcmflavor.1.a:0 "He will be missed."
+ rcmflavor.1.t:0 "린썬의 사망"
+ rcmflavor.1.d:0 "1932년 이래로 국가원수였던 린썬이 3개월 전의 자동차 사고 이후 건강이 악화되는 가운데 오늘 76세로 사망했습니다.\n\n린썬은 타이완 침공 때부터 일본인들과 싸워왔고 1905년 동맹회에 가입했습니다. 그는 쑨원을 따랐고 복건성의 성장이 되었습니다. 쑨원이 사망하자 그는 공산주의자들을 숙청하는 것을 주장하는 국민당의 우익 파벌인 서산회의를 조직했습니다. 1931년 일본의 만주 침공으로 장제스가 사임하자 린썬이 비록 얼굴마담에 불과했지만 중국 국민정부의 정부 주석으로 그의 뒤를 이었습니다. 린썬은 국가 정책에 거의 영향을 끼치지 못했지만 정치를 떠나 위엄있는 원로 정치인으로서 대중의 많은 존경을 받았습니다. [ROOT.GetLeader](이)가 주석직을 넘겨받았지만 애도 기간이 선포되었습니다."
+ rcmflavor.1.a:0 "그가 그리울 것이다."
 
- rcmflavor.2.t:0 "The Death of the last Genro"
- rcmflavor.2.d:0 "Saionji Kinmochi, the last surviving genro, prince and twice Prime Minister of Japan, has died today. A close friend of Hirobumi Ito, Kinmochi studied in Europe and served as ambassador in various countries, before joining the Rikken Seiyūkai after his foundation. He also led the japanese delegation at the Paris Peace Conference in 1919. As a Genro, he advised the Emperor, notably on the choice of prime ministers. He was one of the Emperor's most liberal advisors, trying to diminish the influence of the Imperial Japanese Army in political issues, and favoring friendly relations with Great Britain and the United States. This elder statesman was aged 91."
- rcmflavor.2.a:0 "Farewell, Genro."
+ rcmflavor.2.t:0 "마지막 원로의 사망"
+ rcmflavor.2.d:0 "마지막으로 살아있던 원로, 공작, 일본의 총리를 두 번 역임했던 사이온지 긴모치가 오늘 사망했습니다. 이토 히로부미의 절친한 친구였던 사이온지는 유럽에서 공부했고 많은 나라의 대사를 역임했으며 입헌정우회를 창설하고 이에 가입했습니다. 그는 1919년 파리 강화 회의의 일본 대표이기도 했습니다. 그는 원로로서 천황에게 조언 특히 총리의 지명 문제에 대해 조언했습니다. 그는 천황의 조언자 중 가장 자유주의적인 인물로 정치적 문제에서 일본 제국 육군의 영향력을 줄이기 위해 노력했고 영국과 미국과의 우호적인 관계를 추구했습니다. 향년 91세."
+ rcmflavor.2.a:0 "원로여, 안녕히."
  
- rcmflavor.3.t:0 "The Death of Isoroku Yamamoto"
- rcmflavor.3.d:0 "Admiral Yamamoto, commander-in-chief of the Combined Fleet, was on an inspection tour when his plane, a Mitsubishi G4M1, was shot down by american pilots. While his remains have been found, the more violent details of his death were hidden from the Japanese public. He will be given a state funeral."
- rcmflavor.3.a:0 "A great loss in the war."
+ rcmflavor.3.t:0 "야마모토 이소로쿠의 사망"
+ rcmflavor.3.d:0 "연합함대의 사령장관 야마모토 이소로쿠가 시찰 비행을 하던 중, 그의 비행기 미츠비시 G4M1이 미국인 파일럿에게 격추당했습니다. 그의 유해는 발견했지만 그의 죽음에 대한 더 자세한 사실은 일본 대중에게는 숨겨졌습니다. 그의 장례는 국장으로 치뤄질 예정입니다."
+ rcmflavor.3.a:0 "전쟁의 중대한 손실이다"
 
- lin_sen_dead:0 "Lin Sen is dead"
- saionji_kinmochi_dead:0 "Saionji Kinmochi is dead"
- yamamoto_dead:0 "Yamamoto's plane has been shot down"
+ lin_sen_dead:0 "린썬이 사망하다"
+ saionji_kinmochi_dead:0 "사이온지 긴모치가 사망하다"
+ yamamoto_dead:0 "야마모토의 비행기가 격추당하다"
