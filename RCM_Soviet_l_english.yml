@@ -3,37 +3,37 @@
 #SOVIET JOINS Allies
 
 
-rcmsoviet.23.t:0 "[SOV.GetName] Seeks Cooperation with the [Root.GetFactionName]"
-rcmsoviet.23.d:0 "After the war broke out between the [GER.GetFactionName] powers and [SOV.GetNameDef], the leaders of [SOV.GetNameDef] proposed to join the [Root.GetFactionName] to establish a closer military cooperation against the [GER.GetFactionName]. This is a great day for war against the [GER.GetFactionName]."
-rcmsoviet.23.a:0 "Great! The more allies we have the better."
+rcmsoviet.23.t:0 "[Root.GetFactionName]와의 협력을 모색하는 [SOV.GetName]"
+rcmsoviet.23.d:0 "[GER.GetFactionName]과 [SOV.GetNameDef] 사이에 전쟁이 발발한 후, [SOVGetNameDef]의 지도자들은 [GER.GetFactionName]에 대항하여 보다 긴밀한 군사 협력을 확립하기 위해 [Root.GetFactionName]에 가입할 것을 제안했습니다. 오늘은 [GER.GetFactionName]과의 전쟁에서 승리에 한걸음 더 나아간 날입니다!"
+rcmsoviet.23.a:0 "대단해! 동맹은 많으면 많을수록 좋지."
 #rcmsoviet.23.b:0 "No, we can't condone the atrocity of [SOV.GetLeader]."
 
-rcmsoviet.24.t:0 "[From.GetName] Accepted our Membership in the [From.GetFactionName]"
-rcmsoviet.24.d:0 "After receiving our request, [From.GetNameDef] has decided to allow us to join the [From.GetFactionName]. Together with our forces will crush Germany and the [GER.GetFactionName]!"
-rcmsoviet.24.a:0 "Down with [GER.GetLeader]!"
+rcmsoviet.24.t:0 "[From.GetName]이(가) [From.GetFactionName]에 가입하고 싶다는 우리에 제안을 받아들이다"
+rcmsoviet.24.d:0 "우리의 요청을 받은 [From.GetNameDef]는 [From.GetFactionName]에 가입을 수락했습니다. 우리는 든든한 아군과 함께 독일과 [GER.GetFactionName]을 격파할 것 입니다!"
+rcmsoviet.24.a:0 "[GER.GetLeader]를 타도하자!"
 
-rcmsoviet.25.t:0 "[From.GetName] Refused our Membership in the [From.GetFactionName]"
-rcmsoviet.25.d:0 "After receiving our request, [From.GetNameDef] has decided to block us from joining the [From.GetFactionName]. The enemies of our enemies are still our enemies, after all."
-rcmsoviet.25.a:0 "It's their loss."
+rcmsoviet.25.t:0 "[From.GetName]이(가) [From.GetFactionName]에 가입하고 싶다는 우리에 제안을 거부하다"
+rcmsoviet.25.d:0 "우리의 요청을 받은 [From.GetNameDef]은(는) [From.GetFactionName]에 가입하겠다는 우리의 제안을 거부했습니다. 적의 적은 결국엔 적이라는 것이 이것으로 증명되었습니다."
+rcmsoviet.25.a:0 "그들은 멍청한 짓을 한거야."
 
 
-rcmsoviet.26.t:0 "Truce with Japan?"
-rcmsoviet.26.d:0 "China has just reached an armistice with the Japanese after they lost control over Manchuria and Korea, marking the end of the long-drawn-out Second Sino-Japanese War. Maybe we should follow suit?"
-rcmsoviet.26.a:0 "Peace can always help."
-rcmsoviet.26.b:0 "Not gonna happen."
+rcmsoviet.26.t:0 "일본과의 휴전?"
+rcmsoviet.26.d:0 "중국은 오랫동안 끌고온 중일전쟁을 끝내고 만주 및 한국에 대해 영향력을 잃은뒤 일본과 휴전에 도달했습니다. 우리도 휴전해야 할까요?"
+rcmsoviet.26.a:0 "평화는 언제나 우리를 돕는다."
+rcmsoviet.26.b:0 "그런일은 없다."
 
-rcmsoviet.27.t:0 "[From.GetNameDef] Demand Conditional Surrender"
-rcmsoviet.27.d:0 "After our truce with China, [From.GetNameDef] has decided to reach a ceasefire with us as well demand us to conditionally surrender. What measures should we take in respond?"
-rcmsoviet.27.a:0 "Sure."
-rcmsoviet.27.b:0 "No!"
+rcmsoviet.27.t:0 "[From.GetNameDef]가 조건부 항복을 요구하다"
+rcmsoviet.27.d:0 "중국과의 휴전조약을 맺은 뒤, [From.GetNameDef]는 우리와 휴전하기로 결정했으며 조건부 항복을 요구해 왔습니다. 우리는 어떻게 대응해야 할까요?"
+rcmsoviet.27.a:0 "좋다."
+rcmsoviet.27.b:0 "안돼!"
 
-rcmsoviet.28.t:0 "[From.GetName] Accepts our Request of Truce"
-rcmsoviet.28.d:0 "After receiving our request, [From.GetNameDef] has decided to accept the Truce we proposed to them. Finally the peace of Far East is being restored."
-rcmsoviet.28.a:0 "Bitter peace at long last."
+rcmsoviet.28.t:0 "[From.GetName]가 평화를 받아들이다."
+rcmsoviet.28.d:0 "우리의 요구를 받아들인 [From.GetNameDef]는 우리가 요구한 조건을 받아들이기로 결정했습니다. 마침내 극동에 평화가 찾아왔습니다."
+rcmsoviet.28.a:0 "마침내 쓰디쓴 평화가 찾아왔군."
 
-rcmsoviet.29.t:0 "[From.GetName] Refuses our Request of Truce"
-rcmsoviet.29.d:0 "After receiving our request, [From.GetNameDef] has decided to reject the Truce we proposed to them. Looks like peace isn't happening anytime soon. War continues."
-rcmsoviet.29.a:0 "Damn them!"
+rcmsoviet.29.t:0 "[From.GetName]가 평화를 거부하다"
+rcmsoviet.29.d:0 "우리의 요구를 거부한 [From.GetNameDef]는 우리가 요구한 조건이 터무니없다고 일축했습니다. 평화는 없다. 전쟁은 계속될 것이다."
+rcmsoviet.29.a:0 "저주받을 놈들!"
 
 
 
