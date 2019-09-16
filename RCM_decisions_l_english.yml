@@ -6,7 +6,7 @@
  expand_civil_socialist_support:0 "민간 부문에서의 지원 확보"
  expand_civil_socialist_support_desc:1 "국민들 사이에서 우리의 대의에 대한 지지가 확산되도록 하고, 현 정부의 권위에 공개적으로 도전하도록 독려해야 합니다. 정부의 권위가 무너지고 시민들 사이에 불안이 확산되면 목표달성이 더욱 쉬워질 것입니다...사악한 방법이죠."
  army_support_for_socialist_civil_war:0 "군대의 지원 확보"
- army_support_for_socialist_civil_war_desc:0 "Without ample support of the military, any hope of victory in an armed ideological struggle would be vain. We must ensure the loyalty of well-placed units of our military forces."
+ army_support_for_socialist_civil_war_desc:0 "군대의 충분한 지지가 없다면 우리는 무장 투쟁에서 패배할 것입니다. 우리는 군대의 충성을 이끌어내야 합니다."
  army_support_TT:0 "Each time army support is increased, 10% is added to the strength of your faction in the civil war, up to a maximum total strength of 70%.\n"
  ensure_general_loyalty_for_socialist_civil_war:1 "Ensure Lower Army Command Loyalty"
  ensure_general_loyalty_for_socialist_civil_war_desc:0 "It is possible certain generals harbor secret sentiments in favor of socialism. We must approach them and ensure their loyalty for when the fighting starts."
