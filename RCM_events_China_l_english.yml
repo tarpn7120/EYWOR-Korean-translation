@@ -99,7 +99,7 @@
  rcmchina.109.d:0 "이제 중국에서 국민당이라는 병에서 몰아내야 할 때입니다. 우리는 모든 중국인들을 해방시키고 마오쩌둥의 현명한 지도 아래 인민을 단결시킬 것입니다."
  rcmchina.109.a:0 "To War!"
  rcmchina.110.t:0 "[From.GetName]의 전쟁선포"
- rcmchina.110.d:0 "[From.GetName]의 [From.GetLeader] 정부가 전쟁을 선포했습니다."
+ rcmchina.110.d:0 "[From.GetName]의 [From.GetLeader] 내각이 전쟁을 선포했습니다."
  rcmchina.110.a:0 "To War!"
  rcmchina.111.t:0 "No Longer United"
  rcmchina.111.d:0 "[Root.GetFactionName]은(는) 그 목적을 다 했습니다. 더 이상 단결하여 대항할 적이 없습니다. 우리는 이 시간을 현명하게 이용해서 북중국과 만주에서 지지를 쌓았고 이제 그 지역에서 지배를 공고히 할 때가 되었습니다."
