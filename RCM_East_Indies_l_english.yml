@@ -85,7 +85,7 @@
  INS_heavy_cruiser_1_desc:0 "The Dutch cruiser Soerabaja, originally named De Zeven Provinciën, was a coastal defense ship ('panterschip') built and commissioned in the Netherlands prior to World War I. She displaced over 6,500 tons and was armed with two 280mm and four 150mm guns as her main armament. She served during World War II until she was sunk by Japanese bombers in 1942."
  
  #Air
- INS_heavy_fighter_equipment_1:0 "Fokker G.1 Mercury"
+ INS_heavy_fighter_equipment_1:0 " G.1 Mercury"
  INS_heavy_fighter_equipment_1_short:0 "Fokker G.1M"
  INS_heavy_fighter_equipment_2:0 "Fokker G.1 Wasp"
  INS_heavy_fighter_equipment_2_short:0 "Fokker G.1W"
